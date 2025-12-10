@@ -1,0 +1,2 @@
+# fruit_classification_tensorflow
+membuat project latihan fruits_classification menggunakan tensorflow
